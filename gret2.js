@@ -1,1 +1,1 @@
-console.log('Welcome to parent SK')
+console.log('Welcome to Parent of Sub-Directory from SK for gret2')
